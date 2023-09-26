@@ -1,1 +1,1 @@
-<h1>Welcome to Shitty.Wine <span>USA</span></h1>
+<h1>Welcome to Shitty.Wine <span>CANADA</span></h1>
